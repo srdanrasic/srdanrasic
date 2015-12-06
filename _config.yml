@@ -1,0 +1,22 @@
+# Site settings
+name: Srdan Rasic
+email: srdan.rasic@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I’m a software engineer from Zagreb, Croatia. This is my personal blog.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://rasic.info" # the base hostname & protocol for your site
+twitter_username: srdanrasic
+github_username:  srdanrasic
+
+markdown: redcarpet
+highlighter: pygments
+logo: false
+paginate: 15
+animations: false
+baseurl: /
+domain_name: 'http://rasic.info'
+google_analytics: 'UA-48112103-2'
+
+# Details for the RSS feed generator
+url:            'http://rasic.info/'
+author:         'Srdan Rasic'
